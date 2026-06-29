@@ -4,6 +4,7 @@ This is my attempt to make a calculator, it is definitely not the greatest piece
 
 #TO USE !!!
 starting this program simply requires using the java command to start the program
+
     1. Navigate a terminal to the bin folder of the project
     
     2. 2a. Type out "java Main" to start the program in a CLI
